@@ -1,7 +1,7 @@
 function pg1(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="the arc of"){
         window.location.assign("acideg2.html")
     }
     else {
@@ -13,7 +13,7 @@ function pg1(){
 function pg2(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="the moral"){
         window.location.assign("bicdie3.html")
     }
     else {
@@ -25,7 +25,7 @@ function pg2(){
 function pg3(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="universe is long"){
         window.location.assign("zijyou4.html")
     }
     else {
@@ -37,7 +37,7 @@ function pg3(){
 function pg4(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="but it"){
         window.location.assign("cfbdi5.html")
     }
     else {
@@ -49,7 +49,7 @@ function pg4(){
 function pg5(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="bends towards"){
         window.location.assign("oiplom6.html")
     }
     else {
@@ -61,7 +61,7 @@ function pg5(){
 function pg6(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="justice"){
         window.location.assign("bbauop7.html")
     }
     else {
